@@ -1,2 +1,0 @@
-# andoridbyepass
-Server Managament 
